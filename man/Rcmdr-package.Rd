@@ -12,8 +12,8 @@ user interface) for R, based on the tcltk package.
 \details{
 \tabular{ll}{
 Package: \tab Rcmdr\cr
-Version: \tab 2.7-3\cr
-Date: \tab 2022-06-08\cr
+Version: \tab 2.8-0\cr
+Date: \tab 2022-08-17\cr
 Depends: \tab R (>= 3.5.0), grDevices, graphics, methods, stats, utils, splines, 
   RcmdrMisc (>= 2.7-1), car (>= 3.0-8), effects (>= 4.0-3)\cr
 Imports: \tab tcltk, tcltk2 (>= 1.2-6), abind, relimp (>= 1.0-5), lme4\cr
@@ -35,7 +35,7 @@ Chapman and Hall/CRC Press.
 
 Fox, J. (2005) 
 The R Commander: A Basic Statistics Graphical User Interface to R. 
-\emph{Journal of Statistical Software}, \bold{14(9)}: 1--42.\doi{10.18637/jss.v014.i09}.
+\emph{Journal of Statistical Software}, \bold{14(9)}: 1--42.
 }
 
 \section{Translations}{
@@ -61,7 +61,7 @@ Spanish, Spanish R-UCA Project, http://knuth.uca.es/R.
 }
 
 \author{
-John Fox <jfox@mcmaster.ca> and Milan Bouchet-Valat, with contributions from Liviu Andronic, Michael Ash, Theophilius Boye, Stefano Calza, Andy Chang, Vilmantas Gegzna,
+John Fox <jfox@mcmaster.ca>, Manuel Munoz Marquez, and Milan Bouchet-Valat, with contributions from Liviu Andronic, Michael Ash, Theophilius Boye, Stefano Calza, Andy Chang, Vilmantas Gegzna,
 Philippe Grosjean, Richard Heiberger, G. Jay Kerns, Renaud Lancelot, Matthieu Lesnoff, Uwe Ligges, Samir Messad, Martin Maechler, Robert Muenchen, Duncan Murdoch, Erich Neuwirth, Dan Putler, Brian Ripley, Miroslav Ristic,  Peter Wolf, and Kevin Wright.
 
 Maintainer: John Fox <jfox@mcmaster.ca>
