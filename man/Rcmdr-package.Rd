@@ -9,24 +9,6 @@ R Commander
 A platform-independent basic-statistics GUI (graphical
 user interface) for R, based on the tcltk package.
 }
-\details{
-\tabular{ll}{
-Package: \tab Rcmdr\cr
-Version: \tab 2.8-0\cr
-Date: \tab 2022-08-17\cr
-Depends: \tab R (>= 3.5.0), grDevices, graphics, methods, stats, utils, splines, 
-  RcmdrMisc (>= 2.7-1), car (>= 3.0-8), effects (>= 4.0-3)\cr
-Imports: \tab tcltk, tcltk2 (>= 1.2-6), abind, relimp (>= 1.0-5), lme4\cr
-Suggests: \tab aplpack, boot, colorspace, e1071, foreign, grid, Hmisc, knitr, lattice, 
-  leaps, lmtest, markdown, MASS, mgcv, multcomp (>= 0.991-2), nlme, nnet, nortest, 
-  readxl, rgl (>= 0.96.0), rmarkdown (>= 0.9.5), sem (>= 2.1-1) \cr
-ByteCompile: \tab yes\cr
-License: \tab GPL (>= 2)\cr
-URL: \tab https://www.r-project.org,
-https://socialsciences.mcmaster.ca/jfox/Misc/Rcmdr/index.html, 
-https://socialsciences.mcmaster.ca/jfox/Books/RCommander/ \cr
-}
-}
 
 \references{
 Fox, J. (2017)
@@ -58,6 +40,9 @@ Romanian, Adrian Dusa;
 Russian, Alexey Shipunov;
 Slovenian, Jaro Lajovic and Matjaz Jeran;
 Spanish, Spanish R-UCA Project, http://knuth.uca.es/R.
+
+Note: Many of these translations are not up-to-date. If you encounter an out-of-date translation and wish to take over updating and maintaining it, please contract the R Commander developers.
+
 }
 
 \author{
